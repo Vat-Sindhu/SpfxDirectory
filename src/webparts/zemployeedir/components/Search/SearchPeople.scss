@@ -1,0 +1,10 @@
+@import '~@fluentui/react/dist/sass/References.scss';
+.search {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    .searchBox {
+        width: 100px;
+        margin: 2px;
+    }
+}
